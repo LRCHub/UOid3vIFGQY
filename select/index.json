@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Something",
+  "base_artist": "Escape the Fate",
+  "createdAt": "2026-03-31T05:52:22.269460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Something Just Like This (Mixed)",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_Something_Just_Like_This_(Mixed)_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Something Real",
+      "artist": "Rameses B feat. Danyka Nadeau",
+      "has_synced": true,
+      "path": "select/02_Something_Real_Rameses_B_feat._Danyka_Nadeau.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Something Real",
+      "artist": "Rameses B, Danyka Nadeau",
+      "has_synced": true,
+      "path": "select/03_Something_Real_Rameses_B,_Danyka_Nadeau.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Something in the Orange",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/04_Something_in_the_Orange_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Something To Do With My Hands",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/05_Something_To_Do_With_My_Hands_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always Something With You",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/06_Always_Something_With_You_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Do You Wanna Make Something Of It",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/07_Do_You_Wanna_Make_Something_Of_It_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Left Something Turned On At Home",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/08_I_Left_Something_Turned_On_At_Home_Trace_Adkins.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Think of Something",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/09_I'll_Think_of_Something_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mean Something",
+      "artist": "Caylee Hammack feat. Ashley McBryde & Tenille Townes",
+      "has_synced": true,
+      "path": "select/10_Mean_Something_Caylee_Hammack_feat._Ashley_McBryde_&_Tenille_Townes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mean Something",
+      "artist": "Caylee Hammack",
+      "has_synced": true,
+      "path": "select/11_Mean_Something_Caylee_Hammack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On to Something Good",
+      "artist": "Ashley Monroe",
+      "has_synced": true,
+      "path": "select/12_On_to_Something_Good_Ashley_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Play Something Country",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/13_Play_Something_Country_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Say Something",
+      "artist": "Justin Timberlake feat. Chris Stapleton",
+      "has_synced": true,
+      "path": "select/14_Say_Something_Justin_Timberlake_feat._Chris_Stapleton.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Say Something (feat. Chris Stapleton)",
+      "artist": "Justin Timberlake",
+      "has_synced": true,
+      "path": "select/15_Say_Something_(feat._Chris_Stapleton)_Justin_Timberlake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Something 'Bout You",
+      "artist": "Sir Rosevelt",
+      "has_synced": true,
+      "path": "select/16_Something_'Bout_You_Sir_Rosevelt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Something",
+      "artist": "Escape The Fate",
+      "has_synced": false,
+      "path": "select/pl_01_Something_Escape_The_Fate.txt"
+    }
+  ]
+}
